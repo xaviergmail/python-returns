@@ -39,6 +39,7 @@ Contents
   pages/functions.rst
   pages/curry.rst
   pages/types.rst
+  pages/transducers.rst
 
 .. toctree::
   :maxdepth: 2
