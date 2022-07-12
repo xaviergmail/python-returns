@@ -855,7 +855,7 @@ python-versions = ">=3.5"
 
 [[package]]
 name = "mypy"
-version = "0.950"
+version = "0.961"
 description = "Optional static typing for Python"
 category = "dev"
 optional = false
@@ -1663,7 +1663,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "73d8ecccd46add9f2f4655d5d78ca4d902d46b33f21e9508e4e6408bfcbd8cb0"
+content-hash = "1a4d0093afece86a392a9de2373257aba57870ff42631af36e8db12d0221ea64"
 
 [metadata.files]
 alabaster = []
